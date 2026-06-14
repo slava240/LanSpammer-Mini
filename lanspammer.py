@@ -1,6 +1,6 @@
 import socket, time
 
-S, P, T = "224.0.2.60", 4445, 2
+S, P, T = "224.0.2.9", 4425, 2
 
 servers = [
     {"motd": "MiniLanSpammer", "port": 25565},
